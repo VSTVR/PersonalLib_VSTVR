@@ -1,0 +1,34 @@
+BasicEle:
+      Resistor
+      Capsitor
+      Electrolytic Capacitor
+      Inductance
+      Diode
+      LED0805
+      Transistor
+
+MCU:
+    STM32F103RCT6
+
+CHIP:
+      Voltage chip
+      Instrument amplifier
+      amplifier
+
+
+Crystal£º
+      crystals
+
+PinSocKeyPointOthers:
+
+        Key
+        OLED
+        other
+        PIN
+        Soc
+
+SpecialFunctionalPart:
+        Sensor
+        Buzzer
+
+
